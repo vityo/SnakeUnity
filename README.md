@@ -1,2 +1,0 @@
-# SnakeUnity
-Snake, Unity
