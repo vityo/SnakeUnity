@@ -1,2 +1,2 @@
-Змейка на Unity3D.
-Одна из версий этого проекта лежит на google play: https://play.google.com/store/apps/details?id=com.PCG.PCGSnake&hl=uk
+п»їР—РјРµР№РєР° РЅР° Unity3D.
+РћРґРЅР° РёР· РІРµСЂСЃРёР№ РїСЂРѕРµРєС‚Р° РЅР° Google Play: https://play.google.com/store/apps/details?id=com.PCG.PCGSnake&hl=uk
